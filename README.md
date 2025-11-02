@@ -1,78 +1,123 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Hello,+I'm+Anshul+Verma;Full+Stack+Web+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<!-- Badges (Animated Numbers) -->
+# 👨‍💻 Anshul Verma
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+
 <p align="center">
   <a href="https://github.com/Coder-0120">
-    <img src="https://img.shields.io/github/followers/Coder-0120?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/Coder-0120?label=Followers&style=for-the-badge&logo=github&color=FFA500&labelColor=282828" />
   </a>
   <a href="https://github.com/Coder-0120?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Coder-0120?label=Stars&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/stars/Coder-0120?label=Stars&style=for-the-badge&logo=github&color=FFA500&labelColor=282828" />
   </a>
-  <a href="mailto:av4862187@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Coder-0120&style=for-the-badge&color=FFA500&labelColor=282828" />
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 👋 Hello, I’m **Anshul Verma**
-- 🌱 Currently learning: **MERN Stack**
-- 💻 Passionate **Full Stack Web Developer**
-- 🛠️ Skilled in: **MongoDB, React.js, Node.js, JavaScript, Java, Git**
-- 🤝 Open to collaborating on exciting web projects!
-- 📫 Reach me at: [av4862187@gmail.com](mailto:av4862187@gmail.com)
+```javascript
+const anshul = {
+    location: "India",
+    currentFocus: "MERN Stack Development",
+    languages: ["JavaScript", "Java"],
+    technologies: {
+        frontEnd: ["React.js", "HTML5", "CSS3"],
+        backEnd: ["Node.js", "Express.js"],
+        databases: ["MongoDB"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentlyLearning: ["MERN Stack", "RESTful APIs", "Modern Web Development"],
+    openToCollaborate: true,
+    funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
+
+<div align="center">
+
+### 💡 What I Do
+
+**🌐 Full Stack Development** • **⚛️ React Applications** • **🔧 RESTful APIs** • **📱 Responsive Design**
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="45" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="45" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="45" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="45" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45" />
-  </a>
+<div align="center">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" alt="Frontend Skills" />
 </p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+</p>
+
+### Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,java,git,github,vscode,postman" alt="Tools" />
+</p>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coder-0120&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-0120&theme=tokyonight" alt="GitHub streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Coder-0120&theme=tokyo-night" alt="activity graph"/>
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Coder-0120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFA500&icon_color=FFA500&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-0120&theme=tokyonight&hide_border=true&background=1a1b27&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" alt="GitHub Streak" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-0120&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FFA500&line=FFA500&point=c9d1d9" alt="Contribution Graph" />
+
+### 📈 Most Used Languages
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-0120&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFA500&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshul-verma180705/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:av4862187@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Coder-0120&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anshul-verma180705/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:av4862187@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Coder-0120">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+### 💬 Open to Collaboration!
+
+I'm always interested in working on exciting web development projects. Feel free to reach out if you want to build something amazing together!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+
+</div>
